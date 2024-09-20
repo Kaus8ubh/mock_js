@@ -19,7 +19,7 @@ let width = null;
 let area =(height ?? 100) * (width ?? 50);
 alert(area)
 
-
+*/
 for (let i=2; i<=10;i++){
   if (i%2==0) {
     alert(i)
@@ -31,4 +31,4 @@ while(i<3) {
   alert(`number ${i}!`)
   i++;
 }
-*/
+
